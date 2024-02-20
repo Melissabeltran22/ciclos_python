@@ -1,0 +1,33 @@
+INICIO
+    int i, numero de hijos, valor del bono
+    personas estrato1, personas estrato2
+    dinero_estrato1, dinero_estrato2
+
+    for in range (10):
+        lea estrato 1 o 2
+        si estrato != 1 o 2
+            entonces imprima "ingrese estrato correcto"
+        sino
+        lea numero de hijos
+        si
+        num_hijos > 3 entonces ==3
+        si
+        personasestrato1 = personasestrato1 +1
+        sino
+        personasestrato2 = personasestrato2 +1
+        si
+        numerohijos==0   entonces hijos0=+1
+        numerohijos=[1,2] entonces hijos1_2= +1
+        sino
+        numerohijos3mas = +1
+    FinFor
+
+    Imprime total personas estrato 1
+    imprime total bonos estrato1
+    imprime total personas estrato 2
+    imprime total bonos estrato 2
+    imprime personas sin hijos
+    imprime personas con 1o2 hijos
+    imprime personas con 3 o mas hjos
+    imprime el total del dinero pagado en bonos
+FIN
